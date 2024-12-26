@@ -1,0 +1,7 @@
+
+
+    function next(){
+
+        alert("Hello");
+
+    }
